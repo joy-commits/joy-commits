@@ -5,7 +5,8 @@ I'm Ufuoma from Nigeria, and I love doing "stuffs" with data (ranging from wrang
 🔭 I’m currently working on this page <br />
 🌱 I’m currently learning technical writing and machine learning <br />
 👯 I’m looking to collaborate on data analysis projects <br />
-🤔 I’m looking for help with entry-level data analyst roles <br />
+🤔 I’m looking for data analyst roles and even technical writing roles too! <br />
+🛠️ Tools I use: Python, SQL, MS Excel, GSheets, PowerBI <br />
 📫 How to reach me: ufuomajoy27@gmail.com <br />
 😄 Pronouns: She/Her <br />
 ⚡ Fun fact: I have a lovely voice😊

@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Ufuoma from Nigeria, and I love doing "stuffs" with data (ranging from wrangling to EDA to creating beautiful vizzes and storytelling)! I really enjoy learning, as well as working on languages like Python (I enjoy pandas, matplotlib, seaborn and numpy) and SQL. 
+I'm Ufuoma from Nigeria, and I love doing "stuffs" with data (ranging from wrangling to EDA to creating beautiful vizzes and storytelling)! I really enjoy learning, as well as working with Python (I enjoy pandas, matplotlib, seaborn and numpy) and SQL. 
 
 🔭 I’m currently working on this page <br />
 🌱 I’m currently learning technical writing and machine learning <br />
 👯 I’m looking to collaborate on data analysis projects <br />
 🤔 I’m looking for data analyst roles and even technical writing roles too! <br />
-🛠️ Tools I use: Python, SQL, MS Excel, GSheets, PowerBI <br />
+🛠️ Tools I use: Python, SQL, MS Excel, GSheets, PowerBI, PowerPoint <br />
 📫 How to reach me: ufuomajoy27@gmail.com <br />
 😄 Pronouns: She/Her <br />
 ⚡ Fun fact: I have a lovely voice😊

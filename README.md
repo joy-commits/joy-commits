@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-I'm Ufuoma from Nigeria, and I love doing "stuffs" with data (ranging from wrangling to EDA to creating beautiful vizzes and storytelling)! I really enjoy learning, as well as working with Python (I enjoy pandas, matplotlib, seaborn and numpy) and SQL. 
+I'm **Ufuoma** *(pronounced as "oo-foe-mah")*, and I love doing "stuffs" with data! I really enjoy learning (and unlearning). 
 
-🔭 I’m currently working on this page <br />
-🌱 I’m currently exploring technical writing, open-source and machine learning <br />
-👯 I’m looking to collaborate on data analysis projects <br />
-🤔 I’m looking for data analyst roles and even technical writing roles too! <br />
-🛠️ Tools I use: Python, SQL, MS Excel, Google Sheets, PowerBI, PowerPoint, IBM SPSS <br />
-📫 How to reach me: ufuomajoy27@gmail.com <br />
-😄 Pronouns: She/Her <br />
-⚡ Fun fact: I have a lovely voice😊
+🤔 I’m still working on this page. <br />
+👯 I’m looking to **collaborate** on any meaningful project. <br />
+🌱 **Currently vibing with:** data analysis, data engineering, technical writing, and open-source projects. <br />
+🛠️ **Tools I work with:** Whatever gets the job done + a huge chunk of curiosity!  <br />
+📫 **How to reach me:** ufuoma.ejite@gmail.com <br />
+😄 **Pronouns:** She/Her. <br />
+⚡ **Fun fact:** My favorite debugging tool? A deep breath and a silent prayer.😎
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joy-commits)](https://github.com/anuraghazra/github-readme-stats)
